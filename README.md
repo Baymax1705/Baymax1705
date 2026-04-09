@@ -143,7 +143,7 @@
 
 ---
 
-### 📰 Cybersecurity Intern @ CDAC Noida 
+### 🏢 Cybersecurity Intern @ CDAC Noida 
 📅 May 2024 - Jun 2024 
 
 <table>
