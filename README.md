@@ -207,7 +207,7 @@
   </tr>
 </table>
 
-### 🎓 **EDUCATION**
+### 🎓🎓 **EDUCATION**
 <img src="https://img.shields.io/badge/🎓_B.Tech_CSE -IIIT_Manipur-FF6B35?style=for-the-badge&labelColor=000000"/>
 <br>
 <strong>2022 - 2026</strong>
