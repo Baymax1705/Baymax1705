@@ -162,8 +162,8 @@
       <img src="https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&labelColor=000000"/>
       <br><br>
       <img src="https://img.shields.io/badge/Penetration_Testing-FF6B6B?style=for-the-badge&labelColor=000000"/>
-      <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&labelColor=000000"/>
       <br><br>
+      <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&labelColor=000000"/>
       <img src="https://img.shields.io/badge/Nuclei-FF6B6B?style=for-the-badge&labelColor=000000"/>
     </td>
   </tr>
