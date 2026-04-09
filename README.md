@@ -20,14 +20,14 @@
 
 
 <!-- /*---------------------------------- -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F85D7F&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects" />
-</p>
+</p> -->
 <!-- ------------------------------------------------ -->
 
 
 <!-- GitHub Stats with Custom Theme and Animations -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics Dashboard
@@ -52,8 +52,72 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- ------------------------------------------------>
+<!-- Tech Stack with Animated Icons -->
+<div align="center">
 
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> **TECH ARSENAL**
 
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" alt="Programming Languages"/>
+      <br><strong>Programming Languages</strong>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Frontend"/>
+      <br><strong>Frontend Development</strong>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend"/>
+      <br><strong>Backend & Database</strong>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,github,git,linux&theme=dark" alt="DevOps"/>
+      <br><strong>DevOps & Tools</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Professional Experience Timeline -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> **PROFESSIONAL JOURNEY**
+
+</div>
+
+<div align="left">
+
+### 🏢 **Project Intern @ IIT Ropar **
+**📅 Jan 2026 - Present **
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🚀 <strong>Development:</strong> Contributed to the Ajrasakha Chatbot using MERN stack, improving user interaction and feature usability</li>
+        <li>🔍 <strong>Feature Implementation:</strong> Built “Search History & Reuse Queries” functionality to enhance query accessibility and user efficiency</li>
+        <li>⚙️ <strong>Backend Integration:</strong> Worked on scalable backend logic and efficient data handling for seamless performance</li>
+        <li>🔗 <strong>System Collaboration:</strong> Coordinated with mentors to understand architecture and integrate features into existing workflows</li>
+        <li>⚡ <strong>Optimization:</strong> Improved application flow and responsiveness through optimized API usage and state management</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Chatbot_Project-FF6B6B?style=for-the-badge&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/Feature_Development-00D4AA?style=for-the-badge&labelColor=000000"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+</div>
 
 <!-- --------------------------------------------------------------------------------------------  -->
 <!-- Connect Section with Social Media Cards -->
