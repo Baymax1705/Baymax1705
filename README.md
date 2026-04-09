@@ -150,19 +150,19 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🔐 <strong>Security Testing:</strong> Performed vulnerability assessments and penetration testing on web applications to identify security flaws</li>
-        <li>🛡️ <strong>Ethical Hacking:</strong> Simulated real-world attack scenarios to uncover weaknesses in authentication, input validation, and access control</li>
-        <li>🔍 <strong>Vulnerability Analysis:</strong> Identified common vulnerabilities such as SQL Injection, XSS, and misconfigurations, and suggested remediation strategies</li>
-        <li>⚙️ <strong>Tools & Techniques:</strong> Utilized industry-standard tools like Burp Suite, Nmap, and OWASP methodologies for security assessment</li>
-        <li>📄 <strong>Reporting:</strong> Documented findings with detailed reports and mitigation steps to improve system security posture</li>
+        <li>🔐 <strong>Security Testing:</strong> Conducted vulnerability assessments and penetration testing on web applications and network systems</li>
+        <li>🛡️ <strong>Ethical Hacking:</strong> Performed reconnaissance and attack simulations to identify potential security weaknesses</li>
+        <li>🔍 <strong>Vulnerability Discovery:</strong> Detected issues such as open ports, misconfigurations, and exposed services through active scanning</li>
+        <li>⚙️ <strong>Tools & Techniques:</strong> Utilized tools including Nmap, Nuclei, Sparta, and dnsenum for network scanning, enumeration, and vulnerability detection</li>
+        <li>📄 <strong>Reporting:</strong> Documented findings with actionable remediation steps to enhance overall security posture</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=green"/>
-      <img src="https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/Nuclei-FF6B6B?style=for-the-badge&labelColor=000000"/>
       <br><br>
-      <img src="https://img.shields.io/badge/Penetration_Testing-FF6B6B?style=for-the-badge&labelColor=000000"/>
-      <img src="https://img.shields.io/badge/OWASP-00D4AA?style=for-the-badge&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/Sparta-00D4AA?style=for-the-badge&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/dnsenum-007ACC?style=for-the-badge&labelColor=000000"/>
     </td>
   </tr>
 </table>
