@@ -91,8 +91,8 @@
 
 <div align="left">
 
-### 🏢 **Project Intern @ IIT Ropar **
-**📅 Jan 2026 - Present **
+### 🏢 Project Intern @ IIT Ropar 
+📅 Jan 2026 - Present 
 
 <table>
   <tr>
@@ -116,6 +116,56 @@
 </table>
 
 ---
+
+### 📰 Intern @ Vishwa Vijeta Times 
+📅 May 2025 - Jun 2025 | 📍 (Location/Remote)**
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🛠️ <strong>Dashboard Development:</strong> Built an admin dashboard to manage editorials, enabling structured content creation and publishing</li>
+        <li>📝 <strong>Content Management:</strong> Implemented features to add editorials with tags, rich content, and metadata for better organization</li>
+        <li>☁️ <strong>Media Handling:</strong> Integrated Cloudinary for efficient image upload, storage, and optimization</li>
+        <li>🔗 <strong>Backend Integration:</strong> Connected frontend with APIs to ensure seamless data flow and real-time updates</li>
+        <li>⚡ <strong>Usability:</strong> Improved content publishing workflow, making it faster and more efficient for editors</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Admin_Dashboard-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Cloudinary-FF6B6B?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Content_Management-00D4AA?style=for-the-badge&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/API_Integration-007ACC?style=for-the-badge&labelColor=000000"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+Cybersecurity Intern @ CDAC Noida 
+📅 May 2024 - Jun 2024 
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔐 <strong>Security Testing:</strong> Performed vulnerability assessments and penetration testing on web applications to identify security flaws</li>
+        <li>🛡️ <strong>Ethical Hacking:</strong> Simulated real-world attack scenarios to uncover weaknesses in authentication, input validation, and access control</li>
+        <li>🔍 <strong>Vulnerability Analysis:</strong> Identified common vulnerabilities such as SQL Injection, XSS, and misconfigurations, and suggested remediation strategies</li>
+        <li>⚙️ <strong>Tools & Techniques:</strong> Utilized industry-standard tools like Burp Suite, Nmap, and OWASP methodologies for security assessment</li>
+        <li>📄 <strong>Reporting:</strong> Documented findings with detailed reports and mitigation steps to improve system security posture</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+      <img src="https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&labelColor=000000"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Penetration_Testing-FF6B6B?style=for-the-badge&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/OWASP-00D4AA?style=for-the-badge&labelColor=000000"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
