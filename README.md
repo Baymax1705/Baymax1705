@@ -118,7 +118,7 @@
 ---
 
 ### 📰 Intern @ Vishwa Vijeta Times 
-📅 May 2025 - Jun 2025 | 📍 (Location/Remote)**
+📅 May 2025 - Jun 2025 
 
 <table>
   <tr>
@@ -143,7 +143,7 @@
 
 ---
 
-Cybersecurity Intern @ CDAC Noida 
+### 📰 Cybersecurity Intern @ CDAC Noida 
 📅 May 2024 - Jun 2024 
 
 <table>
@@ -166,6 +166,8 @@ Cybersecurity Intern @ CDAC Noida
     </td>
   </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
