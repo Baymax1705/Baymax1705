@@ -180,7 +180,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/yash-verma-3aab07257/">
+      <a href="https://www.linkedin.com/in/yash-verma-baymax1705/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
       </a>
     </td>
