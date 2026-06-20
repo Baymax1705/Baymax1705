@@ -92,7 +92,7 @@
 <div align="left">
 
 ### 🏢 Project Intern @ IIT Ropar 
-📅 Jan 2026 - Present 
+📅 Jan 2026 - Mar 2026 
 
 <table>
   <tr>
