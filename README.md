@@ -35,10 +35,10 @@
 <table>
   <tr>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Baymax1705&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>   
- <!--
+      <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Baymax1705&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>    -->
+ 
  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=baymax1705&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
- -->
+ 
   </td>
     <td align="center">
       <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=baymax1705&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
