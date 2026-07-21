@@ -4,12 +4,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Yash%20Verma&section=header&textBg=false&reversal=true"/>
 
 <!-- Typing Animation with Multiple Lines -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Engineer+%7C+MERN+Stack+Developer;%F0%9F%A7%A9+DSA+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Engineer;%E2%9A%A1+Full+Stack+Developer+%7C+DSA+Enthusiast" alt="Typing SVG" />
 
 <!-- Animated Status Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_Status-Open_to_SDE--1_Roles-00ff41?style=for-the-badge&labelColor=000000&color=00ff41"/>
-  <img src="https://komarev.com/ghpvc/?username=akt9802&style=for-the-badge&color=blueviolet&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🔥_Status-Open_to_Software_Engineering_Roles-9F1239?style=for-the-badge&labelColor=000000&color=9F1239"/>
+  <img src="https://komarev.com/ghpvc/?username=Baymax1705&style=for-the-badge&color=blueviolet&labelColor=000000"/>
   <img src="https://img.shields.io/badge/🌍_Based_in-India-ff6b35?style=for-the-badge&labelColor=000000"/>
 </p>
 
