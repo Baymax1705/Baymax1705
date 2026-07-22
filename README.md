@@ -37,19 +37,18 @@
     <td align="center">
       <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Baymax1705&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>    -->
  
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=baymax1705&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=baymax1705&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
  
   </td>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=baymax1705&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=baymax1705&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
-<br>
 
 <!-- GitHub Streak with Fire Animation -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax1705&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Baymax1705&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
 </div>
 
@@ -58,6 +57,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ------------------------------------------------>
+
+
 <!-- Tech Stack with Animated Icons -->
 <div align="center">
 
