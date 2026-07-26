@@ -41,7 +41,7 @@
  
   </td>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=baymax1705&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+      <img height="180em" src="https://github-readme-stats-xi-one-50.vercel.app/api/top-langs?username=Baymax1705&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
       <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=baymax1705&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages"/> -->
     </td>
   </tr>
@@ -60,6 +60,11 @@
 <!-- ------------------------------------------------>
 
 
+
+
+
+
+
 <!-- Tech Stack with Animated Icons -->
 <div align="center">
 
@@ -67,19 +72,19 @@
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" alt="Programming Languages"/>
-      <br><strong>Programming Languages</strong>
+    <td align="center" width="205">
+      <img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark" alt="Programming Languages"/>
+      <br><strong>Languages</strong>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="205">
       <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Frontend"/>
-      <br><strong>Frontend Development</strong>
+      <br><strong>Frontendt</strong>
     </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend"/>
+    <td align="center" width="205">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma&theme=dark" alt="Backend"/>
       <br><strong>Backend & Database</strong>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="205">
       <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,github,git,linux&theme=dark" alt="DevOps"/>
       <br><strong>DevOps & Tools</strong>
     </td>
@@ -87,8 +92,14 @@
 </table>
 
 </div>
-
+<br>
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
 <!-- Professional Experience Timeline -->
 <div align="center">
 
