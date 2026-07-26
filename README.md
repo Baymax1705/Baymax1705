@@ -78,11 +78,11 @@
     </td>
     <td align="center" width="205">
       <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Frontend"/>
-      <br><strong>Frontendt</strong>
+      <br><strong>Frontend</strong>
     </td>
     <td align="center" width="205">
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma&theme=dark" alt="Backend"/>
-      <br><strong>Backend & Database</strong>
+      <br><strong>Backend & Databases</strong>
     </td>
     <td align="center" width="205">
       <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,github,git,linux&theme=dark" alt="DevOps"/>
