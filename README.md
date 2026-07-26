@@ -226,9 +226,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎓 **EDUCATION**
-<img src="https://img.shields.io/badge/🎓_B.Tech_CSE -IIIT_Manipur-FF6B35?style=for-the-badge&labelColor=000000"/>
+<img width="30%" src="https://img.shields.io/badge/🎓_B.Tech_CSE -IIIT_Manipur-FF6B35?style=for-the-badge&labelColor=000000"/>
 <br>
-<strong>2022 - 2026</strong>
+<strong>📅 2022 - 2026</strong>
 
 </div>
 <!-- Snake Animation -->
@@ -237,7 +237,7 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
-
+<br/>
 <!-- Footer with Animated Wave -->
 <div align="center">
   
