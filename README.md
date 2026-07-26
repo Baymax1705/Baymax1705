@@ -201,17 +201,12 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/yash-verma-baymax1705/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Baymax1705/">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E3A8A"/>
       </a>
     </td>
     <td align="center">
       <a href="https://leetcode.com/u/Baymax_17/">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000"/>
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000"/>
       </a>
     </td>
     <td align="center">
@@ -220,14 +215,17 @@
       </a>
     </td>
     <td align="center">
-      <a href="mailto:yashverma.off17@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
-      </a>
-    </td>
+  <a href="mailto:yashverma.off17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&labelColor=000000"/>
+  </a>
+</td>
   </tr>
 </table>
 
-### 🎓🎓 **EDUCATION**
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎓 **EDUCATION**
 <img src="https://img.shields.io/badge/🎓_B.Tech_CSE -IIIT_Manipur-FF6B35?style=for-the-badge&labelColor=000000"/>
 <br>
 <strong>2022 - 2026</strong>
@@ -245,7 +243,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> *"Code that works. Design that cares."* <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> *"Building scalable software, one commit at a time."* <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <!--**⭐ Star my repositories if you find them interesting!** -->
 
