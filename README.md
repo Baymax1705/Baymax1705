@@ -109,6 +109,33 @@
 
 <div align="left">
 
+### 💼 Software Engineering Intern @ ModelSuite.ai
+📅 Jul 2026 - Present
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🚀 <strong>Production Engineering:</strong> Delivered <strong>30+ production pull requests</strong> across enterprise applications and AI-powered products, contributing features, optimizations, and production bug fixes.</li>
+        <li>⚙️ <strong>Full-Stack Engineering:</strong> Designed and implemented configurable workflows, admin tools, keyboard accessibility, reusable UI components, and enterprise application features.</li>
+        <li>🤖 <strong>AI Platform:</strong> Developed Prompt Engine V3 features for AI-driven image generation workflows, prompt compilation, and feature integration.</li>
+       <li>📊 <strong>Enterprise Applications:</strong> Built configurable dashboards, keyboard navigation, notification workflows, dynamic data tables, profile management, and calendar customization.</li>
+        <li>🔍 <strong>Code Quality:</strong> Collaborated through peer code reviews, debugging, refactoring, and iterative feature delivery while following modern software engineering practices.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/30%2B_Production_PRs-7C3AED?style=for-the-badge&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/Enterprise_Software-0A66C2?style=for-the-badge&labelColor=000000"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/AI_Prompt_Engine-FF6B6B?style=for-the-badge&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/Full_Stack-00D4AA?style=for-the-badge&labelColor=000000"/>
+  </td>
+  </tr>
+</table>
+
+---
+
+
 ### 🏢 Project Intern @ IIT Ropar 
 📅 Jan 2026 - Mar 2026 
 
@@ -116,7 +143,7 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🚀 <strong>Development:</strong> Contributed to the Ajrasakha Chatbot using MERN stack, improving user interaction and feature usability</li>
+        <li>🚀 <strong>Product Development:</strong> Contributed to the Ajrasakha Chatbot using the MERN stack, implementing production-ready features for improved user experience.</li>
         <li>🔍 <strong>Feature Implementation:</strong> Built “Search History & Reuse Queries” functionality to enhance query accessibility and user efficiency</li>
         <li>⚙️ <strong>Backend Integration:</strong> Worked on scalable backend logic and efficient data handling for seamless performance</li>
         <li>🔗 <strong>System Collaboration:</strong> Coordinated with mentors to understand architecture and integrate features into existing workflows</li>
